@@ -8,15 +8,6 @@
 
 
 
-在线CDN版本: [https://cdn.jsdelivr.net/gh/zhaoolee/ins/website_info.csv](https://cdn.jsdelivr.net/gh/zhaoolee/ins/website_info.csv
-如果你想复刻本项目, 建立**灵感之外**的主题仓库, 欢迎克隆本项目进行魔改。
-```shell
-git clone --depth=1 https://github.com/zhaoolee/ins
-```
-
-## 推荐打开的正确姿势
-
-将[https://github.com/zhaoolee/ins#%E7%9B%AE%E5%BD%95](https://github.com/zhaoolee/ins#%E7%9B%AE%E5%BD%95) 存入书签, 访问书签即可快速访问目录
 
 如果某些网站无法访问, 可以参考[一款快捷签到领魔法上网天数的小工具](https://www.v2fy.com/p/109-glados-2021-06-09/)
 
